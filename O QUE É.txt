@@ -1,0 +1,7 @@
+Biblioteca JS para criar interfaces;
+
+Usado para construir Single Page Application (1 pag html, e rodar toda a aplicação);
+
+Utiliza o JSX para renderizar HTML;
+
+Baseado em componentes;

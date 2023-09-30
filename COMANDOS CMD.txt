@@ -1,0 +1,18 @@
+OBS: Abra a pasta no VS Code e digite pelo terminal lá!
+
+1 - Para instalar o Create React App globalmente:
+npm install -g create-react-app
+
+2 - Para criar um novo projeto React.js:
+npx create-react-app 'nomeprojeto'
+
+3 - Após isso vai criar um diretorio dentro da pasta com o nome do Projeto,
+vá nesse diretorio através do comando: 
+cd 'nomeprojeto'
+
+4 - Dê o comando npm start para rodar o projeto:
+npm start
+
+5 - Vai rodar o projeto e redirecionar para o localhost:3000
+
+
